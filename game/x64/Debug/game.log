@@ -1,0 +1,19 @@
+﻿  main.cpp
+  Character.cpp
+  MainMenu.cpp
+  Player.cpp
+  PlayerController.cpp
+  Generating Code...
+C:\Users\clqui\prj\g1\main.cpp(1,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+C:\Users\clqui\prj\g1\Character.h(5,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Character.cpp')
+  
+C:\Users\clqui\prj\g1\MainMenu.h(5,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'MainMenu.cpp')
+  
+C:\Users\clqui\prj\g1\Character.h(5,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Player.cpp')
+  
+C:\Users\clqui\prj\g1\Character.h(5,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'PlayerController.cpp')
+  
